@@ -2,37 +2,46 @@
   <img src="karen-ai-dev-banner.png" alt="Karen Banner" width="100%">
 </p>
 
-# 👋 Olá, eu sou a Karen Vasconcelos!
+# 👋 Olá, eu sou a Karen Vasconcelos
 
-Sou desenvolvedora **Full Stack**, especialista em **IA aplicada e automações com LLMs**, apaixonada por criar soluções inteligentes que unem **tecnologia, eficiência e experiência**.
+💻 **Dev Full Stack** | 🤖 **Especialista em IA & Automações**  
+React 19 • Python • GPT-4 • Selenium • TailwindCSS • Framer Motion
 
-## 🚀 Minhas especialidades:
-- 🧠 Agentes com GPT-4 / LLMs / Whisper
-- ⚙️ RPA com Python + Selenium + APIs públicas
-- 🌐 Front-end com React 19 + Tailwind + Framer Motion
-- 🧩 Back-end com Node, FastAPI e integrações
+---
 
-## 🛠 Alguns projetos
-- 👩‍💻 VOX-01: agente que conversa por voz com GPT
-- 📄 Auditor LLM: leitura e verificação de PDFs
+## 🚀 Sobre Mim
 
-## 🌱 Em constante aprendizado
+Sou apaixonada por transformar ideias em soluções inteligentes usando IA, automações e interfaces modernas. Crio agentes autônomos, chatbots avançados, e ferramentas de produtividade com foco em impacto real.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+## ✨ Projetos em Destaque
+
+- 🎙️ **Vox-01**: Agente de IA com interação por voz usando Whisper + GPT-4
+- 📄 **Auditor de Editais com LLMs**: Extrator inteligente de documentos obrigatórios
+- 🌐 **Landing Page **: Interface de alto impacto com Framer Motion
+- 🤖 **Scraper AutoBusque**: Automação com Selenium + análise via IA
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 🌐 [Portfólio](https://kavsdevs.github.io/Portfolio_KaDevs/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karen-mayara-vasconcelos-da-silva-0b980a349/)
+- ✉️ kmvcpp@gmail.com
+
+---
+
 > “Automatizar o que consome tempo, entregar o que gera valor.”
-
-📫 **Contato**: [LinkedIn](https://www.linkedin.com/in/seu-usuario) • [Portfólio](https://kavsdevs.github.io/Portfolio_KaDevs/)
-
-
-<!--
-**KaVsDevs/KaVsDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
