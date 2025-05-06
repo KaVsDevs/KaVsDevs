@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./karen-ai-dev-banner.png" alt="Banner Karen AI Dev" width="100%">
+  <img src="karen-ai-dev-banner.png" alt="Karen Banner" width="100%">
 </p>
+
 # 👋 Olá, eu sou a Karen Vasconcelos!
 
 Sou desenvolvedora **Full Stack**, especialista em **IA aplicada e automações com LLMs**, apaixonada por criar soluções inteligentes que unem **tecnologia, eficiência e experiência**.
