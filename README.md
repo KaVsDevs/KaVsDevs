@@ -30,7 +30,7 @@ Sou apaixonada por transformar ideias em soluções inteligentes usando IA, auto
 ## ✨ Projetos em Destaque
 
 - 🎙️ **Vox-01**: Agente de IA com interação por voz usando Whisper + GPT-4
-- 📄 **Auditor de Editais com LLMs**: Extrator inteligente de documentos obrigatórios
+- 📄 **Auditor com LLMs**: Extrator inteligente de documentos
 - 🌐 **Landing Page **: Interface de alto impacto com Framer Motion
 - 🤖 **Scraper AutoBusque**: Automação com Selenium + análise via IA
 
